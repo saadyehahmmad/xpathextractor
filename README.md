@@ -2,6 +2,7 @@
 
 A powerful browser extension that automatically extracts full XPaths for all form controls and interactive elements on web pages, with advanced filtering and Excel export capabilities.
 
+
 ## Features
 
 - 🔍 Smart detection and extraction of XPaths for form elements and controls
@@ -50,6 +51,12 @@ The extension requires these permissions for full functionality:
 - Downloads - For Excel export
 - Scripting - For element detection
 - All URLs - For universal compatibility
+
+## Demeo
+
+![image](https://github.com/user-attachments/assets/9a2e83df-118b-484e-8b1e-3e0cd5811533)
+![image](https://github.com/user-attachments/assets/9abe49f6-ffd7-410f-ae00-677edb64ba5b)
+
 
 ## Development
 
