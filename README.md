@@ -52,7 +52,7 @@ The extension requires these permissions for full functionality:
 - Scripting - For element detection
 - All URLs - For universal compatibility
 
-## Demeo
+## Best UX and UI ever :)
 
 ![image](https://github.com/user-attachments/assets/9a2e83df-118b-484e-8b1e-3e0cd5811533)
 ![image](https://github.com/user-attachments/assets/9abe49f6-ffd7-410f-ae00-677edb64ba5b)
